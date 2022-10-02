@@ -1,0 +1,22 @@
+.footer{
+    background-color: #000;
+    height: 100px;
+    .footer__icons{
+        margin: 0 auto;
+        text-align: center;
+        padding: 35px;
+        a{
+            text-decoration: none;
+            color: white;
+            .icon1{
+                width: 30px;
+                height: 30px;
+            }
+            i{
+                width: 30px;
+                height: 30px;
+                padding: 15px 15px;
+            }
+        }
+    }
+}
